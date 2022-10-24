@@ -1,6 +1,8 @@
 ## Multi-Threaded HTTP Server
 
-Ethan Ma - Spring 2022
+### Usage
+> make  
+> ./httpserver 8080 &
 
 ### Basic Overview
 
